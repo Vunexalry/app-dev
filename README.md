@@ -3,7 +3,7 @@ My first repository
 
 ## My Favorite Series
 
-[Owl House]([https://www.example.co](https://en.wikipedia.org/wiki/The_Owl_House)m)
+[Owl House](https://www.example.co](https://en.wikipedia.org/wiki/The_Owl_House))
 
    <img width="258" height="312" alt="image" src="https://github.com/user-attachments/assets/fba9ef22-cf2a-4804-b196-573f7708275b" />
    
